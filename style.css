@@ -8,8 +8,8 @@ header {
   background:DarkOrchid;
 }
 header img {
-  width:140px;
-  height:70px;
+  width:170px;
+  height:50px;
 }
 header a {
  padding:3px;
@@ -32,7 +32,7 @@ footer {
 }
 main p {
   font-size:27px;
-  border:2px wavy DarkSlateBlue;
+  border:2px double DarkSlateBlue;
   background:Plum;
   border-radius: 20px
 }
