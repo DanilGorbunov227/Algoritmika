@@ -1,15 +1,45 @@
 body {
   font-family: sans-serif;
   text-align: center;
+  background:Lavender;
 }
 header {
   font-size:20px;
-  background:;
+  background:DarkOrchid;
 }
 header img {
   width:70px;
   height:140px;
 }
 header a {
-  
+ padding:3px;
+ text-decoration:none;
+ border-radius: 10px;
+ border:1px solid black;
+ background:white;
+}
+h1{
+  font-size:50px;
+}
+main img {
+  width:450px;
+  height:300px;
+  border-radius:20px;
+}
+footer {
+  background:DarkOrchid;
+  font-size:20px;
+}
+main p {
+  font-size:27px;
+  border:2px dotted DarkSlateBlue;
+  background:Plum;
+}
+main a {
+ text-decoration:none;
+ border-radius: 40px;
+ border:1px solid ;
+ padding:5px;
+ background: ;
+ font-size:31px; 
 }
