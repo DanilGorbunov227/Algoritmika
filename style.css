@@ -35,6 +35,7 @@ main p {
   border:2px double DarkSlateBlue;
   background:Plum;
   border-radius: 20px
+  color:LemonChiffon;
 }
 main a {
  text-decoration:none;
